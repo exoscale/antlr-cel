@@ -1,4 +1,4 @@
-(defproject com.exoscale/antlr-cel "0.1.0"
+(defproject com.exoscale/antlr-cel "0.1.1-SNAPSHOT"
   :description "ANTlr4 generated runtime for the CEL grammar"
   :url "https://github.com/exoscale/antlr-cel"
   :license {:name "MIT/ISC"}
