@@ -9,4 +9,5 @@
   :omit-source true
   :auto-clean false
   :java-source-paths ["src"]
+  :deploy-repositories [["releases" :clojars] ["snapshots" :clojars]]
   :clean-targets ^{:protect false} ["src/exoscale/cel" "target"])
